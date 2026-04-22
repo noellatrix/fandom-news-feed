@@ -8,8 +8,7 @@ FEED_GROUPS = [
     {
         "label": "The Daily Prophet",
         "feeds": [
-            "https://www.mugglenet.com/feed/",
-            "https://www.harrypotter.com/rss",
+            "https://mugglenet.com/feed",
         ],
     },
     {
