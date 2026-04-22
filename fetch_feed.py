@@ -32,9 +32,7 @@ def fetch_items(url):
     try:
         req = urllib.request.Request(url, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=10) as res:
-            print(f"  HTTP status: {res.status}")
-            raw = res.read()
-            xml = ElementTree.fromstring(raw)
+            xml = ElementTree.fromstring(res.read())
     except Exception as e:
         print(f"  Failed to fetch {url}: {e}")
         return []
@@ -70,7 +68,6 @@ def fetch_items(url):
             "sort_key": parsed_date.timestamp(),
         })
 
-    print(f"  Found {len(items)} items")
     return items
 
 
