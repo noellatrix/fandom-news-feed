@@ -1,7 +1,33 @@
 [
   {
     "label": "The Daily Prophet",
-    "items": []
+    "items": [
+      {
+        "title": "Welcome to MuggleNet",
+        "link": "https://mugglenet.com/2026/04/welcome-to-mugglenet/",
+        "date": "21 Apr"
+      },
+      {
+        "title": "Harry Potter Drone Show to Light Up Skies Around the World",
+        "link": "https://mugglenet.com/2026/04/harry-potter-drone-show-to-light-up-skies-around-the-world/",
+        "date": "21 Apr"
+      },
+      {
+        "title": "New Community Manager Sparks Fresh\u00a0Hogwarts Legacy\u00a0Sequel Speculation",
+        "link": "https://mugglenet.com/2026/04/new-community-manager-sparks-fresh-hogwarts-legacy-sequel-speculation/",
+        "date": "21 Apr"
+      },
+      {
+        "title": "Harry Potter Shop\u2019s New Quidditch Collection Brings \u201990s Style",
+        "link": "https://mugglenet.com/2026/04/harry-potter-shops-new-quidditch-collection-brings-90s-style/",
+        "date": "21 Apr"
+      },
+      {
+        "title": "The Best Harry Potter Gifts for Adults",
+        "link": "https://mugglenet.com/2026/04/the-best-harry-potter-gifts-for-adults/",
+        "date": "19 Apr"
+      }
+    ]
   },
   {
     "label": "Disney News",
