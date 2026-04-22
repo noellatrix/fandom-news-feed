@@ -24,7 +24,11 @@ def fetch_items(url):
     try:
         req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
         with urllib.request.urlopen(req, timeout=10) as res:
-            xml = ElementTree.fromstring(res.read())
+            raw = res.read()
+            print(f"  HTTP status: {res.status}")
+            print(f"  Content-Type: {res.headers.get('Content-Type')}")
+            print(f"  First 300 chars: {raw[:300]}")
+            xml = ElementTree.fromstring(raw)
     except Exception as e:
         print(f"  Failed to fetch {url}: {e}")
         return []
@@ -60,6 +64,7 @@ def fetch_items(url):
             "sort_key": parsed_date.timestamp(),
         })
 
+    print(f"  Found {len(items)} items")
     return items
 
 
