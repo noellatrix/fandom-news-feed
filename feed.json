@@ -3,7 +3,12 @@
     "label": "The Daily Prophet",
     "items": [
       {
-        "title": "It\u2019s July 31, So Naturally We Found the Best Harry Potter Birthday Gifts",
+        "title": "New Hagrid\u2019s Hut Collection Brings Cozy Autumn Magic to Harry Potter Shop",
+        "link": "https://mugglenet.com/2026/08/hagrids-hut-collection-harry-potter-shop/",
+        "date": "3 Aug"
+      },
+      {
+        "title": "The Best Harry Potter Birthday Gifts for Readers, Collectors and More",
         "link": "https://mugglenet.com/2026/07/best-harry-potter-birthday-gifts/",
         "date": "31 Jul"
       },
@@ -21,17 +26,22 @@
         "title": "New Harry Potter Baking Kits Are Coming to Stores This Fall",
         "link": "https://mugglenet.com/2026/07/harry-potter-betty-crocker-pillsbury-baking-kits-2026/",
         "date": "24 Jul"
-      },
-      {
-        "title": "Harry Potter Fan Artist Vlad Pantic Shares the Stories Behind His Illustrations",
-        "link": "https://mugglenet.com/2026/07/harry-potter-illustrator-vlad-pantic-interview/",
-        "date": "23 Jul"
       }
     ]
   },
   {
     "label": "Disney News",
     "items": [
+      {
+        "title": "Brooks Just Dropped New Park-Ready Styles on Amazon \u2014 Here\u2019s Every One",
+        "link": "https://www.disneyfoodblog.com/2026/08/03/brooks-just-dropped-new-park-ready-styles-on-amazon-heres-every-one/",
+        "date": "3 Aug"
+      },
+      {
+        "title": "\u2018Spider-Man: Brand New Day\u2019 Shatters Box Office Opening Weekend Records",
+        "link": "https://www.disneyfoodblog.com/2026/08/03/spider-man-brand-new-day-shatters-box-office-opening-weekend-records/",
+        "date": "3 Aug"
+      },
       {
         "title": "EPCOT\u2019s Germany Pavilion Is CHANGING",
         "link": "https://www.disneyfoodblog.com/2026/08/03/epcots-germany-pavilion-is-changing/",
@@ -45,16 +55,6 @@
       {
         "title": "Everything You Need for Mickey\u2019s Not-So-Scary Halloween Party After Hours of Rigorous Testing",
         "link": "https://www.disneyfoodblog.com/2026/08/03/everything-you-need-for-mickeys-not-so-scary-halloween-party-after-hours-of-rigorous-testing/",
-        "date": "3 Aug"
-      },
-      {
-        "title": "We Are LOSING IT Over This Mickey\u2019s Not-So-Scary Halloween Party Merch Preview",
-        "link": "https://www.disneyfoodblog.com/2026/08/03/we-are-losing-it-over-this-mickeys-not-so-scary-halloween-party-merch-preview/",
-        "date": "3 Aug"
-      },
-      {
-        "title": "Disney, You Have Outdone Yourself Again With This Perfect Collection",
-        "link": "https://www.disneyfoodblog.com/2026/08/03/disney-you-have-outdone-yourself-again-with-this-perfect-collection/",
         "date": "3 Aug"
       }
     ]
