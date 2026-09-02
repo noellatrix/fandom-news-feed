@@ -3,6 +3,11 @@
     "label": "The Daily Prophet",
     "items": [
       {
+        "title": "New \u201cHarry Potter\u201d Trailer Offers Biggest Look Yet at HBO Series",
+        "link": "https://mugglenet.com/2026/09/hbo-harry-potter-new-trailer/",
+        "date": "2 Sep"
+      },
+      {
         "title": "First Full Trailer for HBO\u2019s\u00a0Harry Potter\u00a0Arrives Tomorrow",
         "link": "https://mugglenet.com/2026/09/hbo-harry-potter-full-trailer-september-2/",
         "date": "1 Sep"
@@ -21,42 +26,11 @@
         "title": "Harry Potter Sorting Hat Announcement Teased for Back to Hogwarts Showcase",
         "link": "https://mugglenet.com/2026/08/harry-potter-sorting-hat-back-to-hogwarts-teaser/",
         "date": "31 Aug"
-      },
-      {
-        "title": "HBO\u2019s New Hogwarts House Crests Get Their Clearest Look Yet",
-        "link": "https://mugglenet.com/2026/08/hbo-harry-potter-new-hogwarts-house-crests/",
-        "date": "31 Aug"
       }
     ]
   },
   {
     "label": "Disney News",
-    "items": [
-      {
-        "title": "FIRST LOOK: The NEW Souvenir Every Muppet Fan Needs",
-        "link": "https://www.disneyfoodblog.com/2026/09/02/first-look-the-new-souvenir-every-muppet-fan-needs/",
-        "date": "2 Sep"
-      },
-      {
-        "title": "CONFIRMED: Disney World\u2019s NEWEST Pop-Up Restaurant Will Be Available During Mickey\u2019s Very Merry Christmas Party",
-        "link": "https://www.disneyfoodblog.com/2026/09/01/confirmed-disney-worlds-newest-pop-up-restaurant-will-be-available-during-mickeys-very-merry-christmas-party/",
-        "date": "1 Sep"
-      },
-      {
-        "title": "We Found the Perfect Disney Park Bag for You. You\u2019re Welcome.",
-        "link": "https://www.disneyfoodblog.com/2026/09/01/we-found-the-perfect-disney-park-bag-for-you-youre-welcome-2/",
-        "date": "1 Sep"
-      },
-      {
-        "title": "La Cava del Tequila is Celebrating 17 Years With A NEW Drink!",
-        "link": "https://www.disneyfoodblog.com/2026/09/01/la-cava-del-tequila-is-celebrating-17-years-with-a-new-drink/",
-        "date": "1 Sep"
-      },
-      {
-        "title": "BoxLunch Just Released 6 New Loungeflys",
-        "link": "https://www.disneyfoodblog.com/2026/09/01/boxlunch-just-released-6-new-loungeflys-2/",
-        "date": "1 Sep"
-      }
-    ]
+    "items": []
   }
 ]
