@@ -3,6 +3,11 @@
     "label": "The Daily Prophet",
     "items": [
       {
+        "title": "What Does the Paramount-Warner Bros. Merger Mean for Harry Potter?",
+        "link": "https://mugglenet.com/2026/10/paramount-warner-bros-merger-harry-potter-future/",
+        "date": "2 Oct"
+      },
+      {
         "title": "The First HBO \u2018Harry Potter\u2019 TV Series Merchandise Has Officially Arrived",
         "link": "https://mugglenet.com/2026/09/hbo-harry-potter-series-first-merchandise/",
         "date": "25 Sep"
@@ -21,11 +26,6 @@
         "title": "\u201cHarry Potter: A Forbidden Forest Experience\u201d Returns to New York with New Magic",
         "link": "https://mugglenet.com/2026/09/harry-potter-forbidden-forest-experience-new-york-2026/",
         "date": "17 Sep"
-      },
-      {
-        "title": "Rafe Spall, Molly Hewitt-Richards, and Jasper Ambrose Join HBO\u2019s \u201cHarry Potter\u201d Season 2",
-        "link": "https://mugglenet.com/2026/09/harry-potter-hbo-season-2-arthur-weasley-moaning-myrtle-colin-creevey/",
-        "date": "15 Sep"
       }
     ]
   },
@@ -33,29 +33,29 @@
     "label": "Disney News",
     "items": [
       {
-        "title": "NOW OPEN! We\u2019ve Been Waiting A Whole Year To Go Inside This Disney World Restaurant",
-        "link": "https://www.disneyfoodblog.com/2026/10/01/now-open-weve-been-waiting-a-whole-year-to-go-inside-this-disney-world-restaurant/",
-        "date": "1 Oct"
+        "title": "6 50% Off Disney Deals Happening on Amazon Today",
+        "link": "https://www.disneyfoodblog.com/2026/10/02/6-50-off-disney-deals-happening-on-amazon-today/",
+        "date": "2 Oct"
       },
       {
-        "title": "FIRST LOOK at the New Walk-Up Cocktail Window in Disney World",
-        "link": "https://www.disneyfoodblog.com/2026/10/01/first-look-at-the-new-walk-up-cocktail-window-in-disney-world/",
-        "date": "1 Oct"
+        "title": "Universal Orlando Announces Dates For 2027 Mardi Gras Celebration",
+        "link": "https://www.disneyfoodblog.com/2026/10/02/universal-orlando-announces-dates-for-2027-mardi-gras-celebration/",
+        "date": "2 Oct"
       },
       {
-        "title": "A Bunch Of Cool Disney Stuff Is Discounted on Amazon Today Ahead of Big Deal Days",
-        "link": "https://www.disneyfoodblog.com/2026/10/01/a-bunch-of-cool-disney-stuff-is-discounted-on-amazon-today-ahead-of-big-deal-days/",
-        "date": "1 Oct"
+        "title": "REVIEW: \u201cMeh\u201d Is the Perfect Word For This Newly Opened EPCOT Food and Wine Booth",
+        "link": "https://www.disneyfoodblog.com/2026/10/02/review-meh-is-the-perfect-word-for-this-newly-opened-epcot-food-and-wine-booth/",
+        "date": "2 Oct"
       },
       {
-        "title": "Please Tell Me I\u2019m Not the Only One Who\u2019s Super Confused by This New Disney World Restaurant",
-        "link": "https://www.disneyfoodblog.com/2026/10/01/please-tell-me-im-not-the-only-one-whos-super-confused-by-this-new-disney-world-restaurant/",
-        "date": "1 Oct"
+        "title": "REVIEW: Is It Possible for an EPCOT Festival Booth To Change Your Life? Asking for a Friend.",
+        "link": "https://www.disneyfoodblog.com/2026/10/02/review-is-it-possible-for-an-epcot-festival-booth-to-change-your-life-asking-for-a-friend/",
+        "date": "2 Oct"
       },
       {
-        "title": "We Will Never Use a Water Bottle the Same in Disney World Thanks to This $20 Improvement",
-        "link": "https://www.disneyfoodblog.com/2026/10/01/we-will-never-use-a-water-bottle-the-same-in-disney-world-thanks-to-this-20-improvement/",
-        "date": "1 Oct"
+        "title": "The $10 Item Everyone Is Suddenly Bringing to Disney World",
+        "link": "https://www.disneyfoodblog.com/2026/10/02/the-10-item-everyone-is-suddenly-bringing-to-disney-world/",
+        "date": "2 Oct"
       }
     ]
   }
