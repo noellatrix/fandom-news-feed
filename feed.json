@@ -3,6 +3,16 @@
     "label": "The Daily Prophet",
     "items": [
       {
+        "title": "Harry Potter Shop Unveils New Honeydukes and Magical Friends Christmas Collections",
+        "link": "https://mugglenet.com/2026/10/harry-potter-shop-christmas-collections-2026/",
+        "date": "5 Oct"
+      },
+      {
+        "title": "New Harry Potter x Blvck Collection Reveals a Darker Look to Hogwarts Style",
+        "link": "https://mugglenet.com/2026/10/harry-potter-blvck-2026-collection/",
+        "date": "5 Oct"
+      },
+      {
         "title": "What Does the Paramount-Warner Bros. Merger Mean for Harry Potter?",
         "link": "https://mugglenet.com/2026/10/paramount-warner-bros-merger-harry-potter-future/",
         "date": "2 Oct"
@@ -16,16 +26,6 @@
         "title": "Harry Potter Meets The Elf on the Shelf in New Holiday Collection",
         "link": "https://mugglenet.com/2026/09/harry-potter-elf-on-the-shelf-collection-2026/",
         "date": "23 Sep"
-      },
-      {
-        "title": "Hans Zimmer Wants HBO\u2019s \u201cHarry Potter\u201d to Sound Different from the Films",
-        "link": "https://mugglenet.com/2026/09/hans-zimmer-hbo-harry-potter-music-different-movies/",
-        "date": "19 Sep"
-      },
-      {
-        "title": "\u201cHarry Potter: A Forbidden Forest Experience\u201d Returns to New York with New Magic",
-        "link": "https://mugglenet.com/2026/09/harry-potter-forbidden-forest-experience-new-york-2026/",
-        "date": "17 Sep"
       }
     ]
   },
@@ -33,29 +33,29 @@
     "label": "Disney News",
     "items": [
       {
-        "title": "NEW REPORT: Disney+ Prices Jump 13% and Fans Are Fed Up",
-        "link": "https://www.disneyfoodblog.com/2026/10/05/new-report-disney-prices-jump-13-and-fans-are-fed-up/",
+        "title": "REVIEW: Disney World Changed Its Viral Ice Cream Sandwich (But DON\u2019T Panic)",
+        "link": "https://www.disneyfoodblog.com/2026/10/05/review-disney-world-changed-its-viral-ice-cream-sandwich-but-dont-panic/",
         "date": "5 Oct"
       },
       {
-        "title": "Why November 7th Is a HUGE Day for Disney World",
-        "link": "https://www.disneyfoodblog.com/2026/10/05/why-november-7th-is-a-huge-day-for-disney-world/",
+        "title": "Where in the World Is the DFB Team This Week? (Hint: It Involves a NEW Disney Cruise Ship)",
+        "link": "https://www.disneyfoodblog.com/2026/10/05/where-in-the-world-is-the-dfb-team-this-week-hint-it-involves-a-new-disney-cruise-ship/",
         "date": "5 Oct"
       },
       {
-        "title": "We FINALLY Have an Update on the Carousel of Progress at Magic Kingdom",
-        "link": "https://www.disneyfoodblog.com/2026/10/05/we-finally-have-an-update-on-the-carousel-of-progress-at-magic-kingdom/",
+        "title": "Where to Find the BEST Disney Amazon Big Deal Day Sales In One Place",
+        "link": "https://www.disneyfoodblog.com/2026/10/05/where-to-find-the-best-disney-amazon-big-deal-day-sales-in-one-place-2/",
         "date": "5 Oct"
       },
       {
-        "title": "Every NEW Disney Loungefly Releasing in October (FULL LIST + Prices)",
-        "link": "https://www.disneyfoodblog.com/2026/10/05/every-new-disney-loungefly-releasing-in-october-full-list-prices/",
+        "title": "Disney Just Released New Christmas Loungeflys, Crocs, and More Online",
+        "link": "https://www.disneyfoodblog.com/2026/10/05/disney-just-released-new-christmas-loungeflys-crocs-and-more-online/",
         "date": "5 Oct"
       },
       {
-        "title": "Disney Food Update! A Disney World Restaurant Just Got a Brand NEW Menu",
-        "link": "https://www.disneyfoodblog.com/2026/10/04/disney-food-update-a-disney-world-restaurant-just-got-a-brand-new-menu/",
-        "date": "4 Oct"
+        "title": "Amazon Is Having a BIG Sale on Disney World Essentials",
+        "link": "https://www.disneyfoodblog.com/2026/10/05/amazon-is-having-a-big-sale-on-disney-world-essentials-3/",
+        "date": "5 Oct"
       }
     ]
   }
