@@ -3,6 +3,16 @@
     "label": "The Daily Prophet",
     "items": [
       {
+        "title": "A Magical 9-Day UK Tour Is Bringing Harry Potter, Lord of the Rings, and Narnia Together",
+        "link": "https://mugglenet.com/2026/10/harry-potter-inspired-uk-tour-england-scotland/",
+        "date": "7 Oct"
+      },
+      {
+        "title": "Harry Potter Is Taking Over Oxford Street for Christmas",
+        "link": "https://mugglenet.com/2026/10/harry-potter-christmas-lights-oxford-street/",
+        "date": "7 Oct"
+      },
+      {
         "title": "Harry Potter Shop Unveils New Honeydukes and Magical Friends Christmas Collections",
         "link": "https://mugglenet.com/2026/10/harry-potter-shop-christmas-collections-2026/",
         "date": "5 Oct"
@@ -16,16 +26,6 @@
         "title": "What Does the Paramount-Warner Bros. Merger Mean for Harry Potter?",
         "link": "https://mugglenet.com/2026/10/paramount-warner-bros-merger-harry-potter-future/",
         "date": "2 Oct"
-      },
-      {
-        "title": "The First HBO \u2018Harry Potter\u2019 TV Series Merchandise Has Officially Arrived",
-        "link": "https://mugglenet.com/2026/09/hbo-harry-potter-series-first-merchandise/",
-        "date": "25 Sep"
-      },
-      {
-        "title": "Harry Potter Meets The Elf on the Shelf in New Holiday Collection",
-        "link": "https://mugglenet.com/2026/09/harry-potter-elf-on-the-shelf-collection-2026/",
-        "date": "23 Sep"
       }
     ]
   },
@@ -33,29 +33,29 @@
     "label": "Disney News",
     "items": [
       {
-        "title": "We\u2019re Calling It Now: This NEW Disney Collection Is Going To Sell Out FAST",
-        "link": "https://www.disneyfoodblog.com/2026/10/07/were-calling-it-now-this-new-disney-collection-is-going-to-sell-out-fast/",
+        "title": "FIRST LOOK at Exclusive Holiday Souvenirs Coming to Disney World",
+        "link": "https://www.disneyfoodblog.com/2026/10/07/first-look-at-exclusive-holiday-souvenirs-coming-to-disney-world/",
         "date": "7 Oct"
       },
       {
-        "title": "25 Disney Items Under $25 for Amazon Prime Big Deal Days",
-        "link": "https://www.disneyfoodblog.com/2026/10/07/25-disney-items-under-25-for-amazon-prime-big-deal-days-2/",
+        "title": "BREAKING: Disney Announces BOOKING DATE for New Believe Cruise Ship",
+        "link": "https://www.disneyfoodblog.com/2026/10/07/breaking-disney-announces-booking-date-for-new-believe-cruise-ship/",
         "date": "7 Oct"
       },
       {
-        "title": "FOR REAL LIFE?! Loungefly Just Teased a Bluey Collection!",
-        "link": "https://www.disneyfoodblog.com/2026/10/06/for-real-life-loungefly-just-teased-a-bluey-collection/",
-        "date": "6 Oct"
+        "title": "JUST ANNOUNCED: \u2018Tangled\u2019 and \u2018Encanto\u2019 Stage Shows Coming to the Disney Believe",
+        "link": "https://www.disneyfoodblog.com/2026/10/07/just-announced-tangled-and-encanto-stage-shows-coming-to-the-disney-believe/",
+        "date": "7 Oct"
       },
       {
-        "title": "Lowest Prices in a YEAR?! We\u2019ve Found the Biggest Disney Deals on Amazon Now",
-        "link": "https://www.disneyfoodblog.com/2026/10/06/lowest-prices-in-a-year-weve-found-the-biggest-disney-deals-on-amazon-now/",
-        "date": "6 Oct"
+        "title": "BREAKING: Disney Reveals 10 Restaurants for the NEW Believe Cruise Ship",
+        "link": "https://www.disneyfoodblog.com/2026/10/07/disney-reveals-7-restaurants-for-the-new-believe-cruise-ship/",
+        "date": "7 Oct"
       },
       {
-        "title": "9 Things From Disney Springs You May Have Missed",
-        "link": "https://www.disneyfoodblog.com/2026/10/06/9-things-from-disney-springs-you-may-have-missed/",
-        "date": "6 Oct"
+        "title": "BREAKING NEWS: Disney Believe Maiden Voyage Announced",
+        "link": "https://www.disneyfoodblog.com/2026/10/07/disney-believe-maiden-voyage-announced/",
+        "date": "7 Oct"
       }
     ]
   }
