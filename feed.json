@@ -31,6 +31,32 @@
   },
   {
     "label": "Disney News",
-    "items": []
+    "items": [
+      {
+        "title": "AMC Theatres Reveals 'Avengers: Doomsday' Popcorn Bucket and Collectibles in Today's Daily Recap for 10/31/2026",
+        "link": "https://wdwnt.com/2026/11/amc-theatres-reveals-avengers-doomsday-popcorn-bucket-and-collectibles-in-todays-daily-recap-for-10-31-2026/?adt_ei=*|EMAIL|*",
+        "date": "1 Nov"
+      },
+      {
+        "title": "Disney Animator Says His Baby Was Used as a Model for Young Simba in 'The Lion King'",
+        "link": "https://wdwnt.com/2026/10/disney-animator-says-his-baby-was-used-as-a-model-for-young-simba-in-the-lion-king/?adt_ei=*|EMAIL|*",
+        "date": "1 Nov"
+      },
+      {
+        "title": "'Dancing with the Stars' Disney Night Returns on Monday With Broadway Theme and a Special Guest Judge",
+        "link": "https://wdwnt.com/2026/10/dancing-with-the-stars-disney-night-returns-on-monday-with-broadway-theme-and-a-special-guest-judge/?adt_ei=*|EMAIL|*",
+        "date": "1 Nov"
+      },
+      {
+        "title": "Disney Channel's 'Princess Protection Program' Referenced in Selena Gomez and Demi Lovato Make-Up Campaign",
+        "link": "https://wdwnt.com/2026/10/disney-channels-princess-protection-program-referenced-in-selena-gomez-and-demi-lovato-make-up-campaign/?adt_ei=*|EMAIL|*",
+        "date": "1 Nov"
+      },
+      {
+        "title": "Aerial View Update of New Security Screening Construction at Disneyland",
+        "link": "https://wdwnt.com/2026/10/aerial-view-update-of-new-security-screening-construction-at-disneyland/?adt_ei=*|EMAIL|*",
+        "date": "1 Nov"
+      }
+    ]
   }
 ]
