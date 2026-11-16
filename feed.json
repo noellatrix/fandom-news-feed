@@ -3,6 +3,11 @@
     "label": "The Daily Prophet",
     "items": [
       {
+        "title": "25 Years Ago Today, We Saw Hogwarts on the Big Screen for the First Time",
+        "link": "https://mugglenet.com/2026/11/harry-potter-sorcerers-stone-25th-anniversary/",
+        "date": "16 Nov"
+      },
+      {
         "title": "The New Harry Potter Cast Just Confirmed What Book Readers Have Been Hoping For",
         "link": "https://mugglenet.com/2026/11/hbo-harry-potter-trio-scholastic-interview/",
         "date": "15 Nov"
@@ -21,11 +26,6 @@
         "title": "The Gryffindor Common Room Comes to Life in a New Harry Potter Listening Experience",
         "link": "https://mugglenet.com/2026/11/harry-potter-audioscapes-gryffindor-common-room/",
         "date": "5 Nov"
-      },
-      {
-        "title": "Tom Felton\u2019s Final \u201cCursed Child\u201d Performance Confirmed as Broadway Cast Changes Announced",
-        "link": "https://mugglenet.com/2026/11/cursed-child-broadway-cast-changes-2027/",
-        "date": "5 Nov"
       }
     ]
   },
@@ -33,18 +33,13 @@
     "label": "Disney News",
     "items": [
       {
+        "title": "5 Major Changes Coming to Disney World in December",
+        "link": "https://www.disneyfoodblog.com/2026/11/15/5-major-changes-coming-to-disney-world-in-december-4/",
+        "date": "15 Nov"
+      },
+      {
         "title": "Amazon Has a Sleeping Beauty Loungefly Collection That Keeps Selling Out",
         "link": "https://www.disneyfoodblog.com/2026/11/15/amazon-has-a-sleeping-beauty-loungefly-collection-that-keeps-selling-out/",
-        "date": "15 Nov"
-      },
-      {
-        "title": "Another Mickey's Very Merry Christmas Party 2026 Date Sells Out, Only One Date Still Available",
-        "link": "https://wdwnt.com/2026/11/another-mickeys-very-merry-christmas-party-2026-date-sells-out-only-one-date-still-available/?adt_ei=*|EMAIL|*",
-        "date": "15 Nov"
-      },
-      {
-        "title": "REVIEW: Holiday Food at Disneyland Resort for 2026 Christmas Season",
-        "link": "https://wdwnt.com/2026/11/review-holiday-food-at-disneyland-resort-for-2026-christmas-season/?adt_ei=*|EMAIL|*",
         "date": "15 Nov"
       },
       {
@@ -53,8 +48,13 @@
         "date": "15 Nov"
       },
       {
-        "title": "Orlando International Airport Issues Ground Stop Two Days After Nationwide Incident",
-        "link": "https://wdwnt.com/2026/11/orlando-international-airport-issues-another-ground-stop-two-days-after-nationwide-incident/?adt_ei=*|EMAIL|*",
+        "title": "Disney World Changes ANOTHER Cast Member Costume!",
+        "link": "https://www.disneyfoodblog.com/2026/11/15/disney-world-changes-another-cast-member-costume/",
+        "date": "15 Nov"
+      },
+      {
+        "title": "This Amazon Carry-On Organizer Has a Separate Spot for Your Dirty Laundry",
+        "link": "https://www.disneyfoodblog.com/2026/11/15/this-amazon-carry-on-organizer-has-a-separate-spot-for-your-dirty-laundry/",
         "date": "15 Nov"
       }
     ]
